@@ -1,0 +1,25 @@
+#i1{
+    height: 500px;
+    width: 450px;
+    border-style: solid;
+    padding: 5px;
+    
+}
+body{
+    text-align: center;
+    background-color: coral;
+}
+img{
+    transition: transform .2s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
+#contacts{
+    width: 100%;
+    
+}
+#contact1{
+    background-color: aliceblue;
+}
